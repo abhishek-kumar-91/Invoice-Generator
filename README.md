@@ -13,7 +13,7 @@ An Invoice creator project built with React. Add itemized items, configure quant
 ### Installation
 
 ```
-git clone https://github.com/GithubShivanshu/PDF-invoice-generator.git
+git clone https://github.com/abhishek-kumar-91/PDF-invoice-generator.git
 
 npm install
 
@@ -28,4 +28,4 @@ npm start / npm run build
 
 - [x] Calculate Tax and Discounts
 
-- [ ] Store invoices in Firebase DB
+- [ ] Store invoices in Firebase DB - Upcoming Features
